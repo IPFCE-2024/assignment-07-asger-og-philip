@@ -92,7 +92,7 @@ void print(stack *s)
     }
     /* post-condition: prints all items in the stack */
 }
-/*
+/*     HER ER VORES TEST FOR OPGAVE 2!!! \/ \/ \/
 int main()
 {
     stack mystack;
